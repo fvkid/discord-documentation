@@ -2,23 +2,23 @@
 
 **File:** `@discordjs/builders` Type Definitions  
 **Version:** Latest  
-**Purpose:** Type-safe builders untuk membuat Discord API-compatible structures
+**Purpose:** Type-safe builders for creating Discord API-compatible structures
 
 ---
 
-## 🎯 FUNGSI UTAMA
+## 🎯 MAIN FUNCTIONS
 
-Library ini digunakan untuk **membuat (build)** berbagai komponen Discord dengan cara yang **type-safe** dan **API-compatible**.
+This library is used to **build** various Discord components in a **type-safe** and **API-compatible** way.
 
 ---
 
-## 📋 ISI LENGKAP
+## 📋 COMPLETE CONTENTS
 
 ### 1. 🎨 EMBED BUILDERS
 
 #### **EmbedBuilder**
 
-**Fungsi:** Membuat embeds (pesan berwarna dengan formatting)
+**Function:** Create embeds (colored messages with formatting)
 
 **Available Methods:**
 
@@ -96,7 +96,7 @@ type RGBTuple = [red: number, green: number, blue: number];
 
 #### **A. ButtonBuilder**
 
-**Fungsi:** Membuat tombol interaktif
+**Function:** Create interactive buttons
 
 **Available Methods:**
 
@@ -158,7 +158,7 @@ const button3 = new ButtonBuilder()
 
 ##### **StringSelectMenuBuilder**
 
-**Fungsi:** Dropdown menu dengan string options
+**Function:** Dropdown menu with string options
 
 **Available Methods:**
 
@@ -204,7 +204,7 @@ const select = new StringSelectMenuBuilder()
 
 ##### **UserSelectMenuBuilder**
 
-**Fungsi:** Select menu untuk memilih users
+**Function:** Select menu for choosing users
 
 **Example:**
 ```typescript
@@ -218,7 +218,7 @@ const userSelect = new UserSelectMenuBuilder()
 
 ##### **RoleSelectMenuBuilder**
 
-**Fungsi:** Select menu untuk memilih roles
+**Function:** Select menu for choosing roles
 
 **Example:**
 ```typescript
@@ -230,7 +230,7 @@ const roleSelect = new RoleSelectMenuBuilder()
 
 ##### **ChannelSelectMenuBuilder**
 
-**Fungsi:** Select menu untuk memilih channels
+**Function:** Select menu for choosing channels
 
 **Example:**
 ```typescript
@@ -243,7 +243,7 @@ const channelSelect = new ChannelSelectMenuBuilder()
 
 ##### **MentionableSelectMenuBuilder**
 
-**Fungsi:** Select menu untuk memilih users atau roles
+**Function:** Select menu for choosing users or roles
 
 **Example:**
 ```typescript
@@ -264,7 +264,7 @@ const mentionableSelect = new MentionableSelectMenuBuilder()
 
 #### **C. TextInputBuilder**
 
-**Fungsi:** Text input field (untuk modals)
+**Function:** Text input field (for modals)
 
 **Available Methods:**
 
@@ -323,7 +323,7 @@ const paragraphInput = new TextInputBuilder()
 
 #### **D. ActionRowBuilder**
 
-**Fungsi:** Container untuk components
+**Function:** Container for components
 
 **Available Methods:**
 
@@ -366,7 +366,7 @@ await interaction.reply({
 
 #### **ModalBuilder**
 
-**Fungsi:** Membuat modal popup (form dialog)
+**Function:** Create modal popup (form dialog)
 
 **Available Methods:**
 
@@ -416,7 +416,7 @@ await interaction.showModal(modal);
 
 #### **SlashCommandBuilder**
 
-**Fungsi:** Membuat slash commands
+**Function:** Create slash commands
 
 **Available Methods:**
 
@@ -718,7 +718,7 @@ const command = new SlashCommandBuilder()
 
 #### **ContextMenuCommandBuilder**
 
-**Fungsi:** Membuat context menu commands (right-click menu)
+**Function:** Create context menu commands (right-click menu)
 
 **Available Methods:**
 
@@ -761,7 +761,7 @@ const messageCommand = new ContextMenuCommandBuilder()
 
 #### **ContainerBuilder**
 
-**Fungsi:** Container wrapper untuk components
+**Function:** Container wrapper for components
 
 **Available Methods:**
 
@@ -800,7 +800,7 @@ const container = new ContainerBuilder()
 
 #### **SeparatorBuilder**
 
-**Fungsi:** Line separator
+**Function:** Line separator
 
 **Available Methods:**
 
@@ -830,7 +830,7 @@ const separator = new SeparatorBuilder()
 
 #### **TextDisplayBuilder**
 
-**Fungsi:** Display formatted text/markdown
+**Function:** Display formatted text/markdown
 
 **Available Methods:**
 
@@ -849,7 +849,7 @@ const textDisplay = new TextDisplayBuilder()
 
 #### **SectionBuilder**
 
-**Fungsi:** Section with text and accessory
+**Function:** Section with text and accessory
 
 **Available Methods:**
 
@@ -880,7 +880,7 @@ const section = new SectionBuilder()
 
 #### **MediaGalleryBuilder**
 
-**Fungsi:** Image/media gallery
+**Function:** Image/media gallery
 
 **Available Methods:**
 
@@ -908,7 +908,7 @@ const gallery = new MediaGalleryBuilder()
 
 #### **FileBuilder**
 
-**Fungsi:** File attachment component
+**Function:** File attachment component
 
 **Available Methods:**
 
@@ -929,7 +929,7 @@ const file = new FileBuilder()
 
 #### **ThumbnailBuilder**
 
-**Fungsi:** Thumbnail image
+**Function:** Thumbnail image
 
 **Available Methods:**
 
