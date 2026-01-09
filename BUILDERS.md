@@ -1,4 +1,4 @@
-# 📚 DISCORD.JS BUILDERS - COMPLETE DOCUMENTATION
+# 📚 DISCORD.JS BUILDERS - DOCUMENTATION
 
 **File:** `@discordjs/builders` Type Definitions  
 **Version:** Latest  
@@ -12,7 +12,7 @@ This library is used to **build** various Discord components in a **type-safe** 
 
 ---
 
-## 📋 COMPLETE CONTENTS
+## 📋 CONTENTS
 
 ### 1. 🎨 EMBED BUILDERS
 
