@@ -1,4 +1,4 @@
-# 📚 DISCORD.JS BUILDERS - DOCUMENTATION
+# 📚 @discord.js/builders - DOCUMENTATION
 
 **File:** `@discordjs/builders` Type Definitions  
 **Version:** Latest  
