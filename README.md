@@ -1,2 +1,3 @@
-### Discord Terms of Service & Privacy Policy Archive
-[discord.com/archive](https://discord.com/archive)
+# Discord Terms of Service & Privacy Policy Archive
+
+> here is the [/archive](https://discord.com/archive)
