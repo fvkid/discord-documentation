@@ -1,4 +1,4 @@
-# 📚 discord.js - MAIN LIBRARY DOCUMENTATION
+# 📚 @discord.js - MAIN LIBRARY DOCUMENTATION
 
 **Package:** `discord.js`  
 **Version:** v14+  
