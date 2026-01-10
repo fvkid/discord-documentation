@@ -1,4 +1,4 @@
-# 🐍 PYTHON DISCORD LIBRARIES - COMPLETE SUMMARY
+# 🐍 discord.py - COMPLETE PACKAGE SUMMARY
 
 **Created:** 2025-01-09  
 **Language:** Python 3.8+
