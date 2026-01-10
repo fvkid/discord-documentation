@@ -1,4 +1,4 @@
-# 🐍 discord.py - COMPLETE PACKAGE SUMMARY
+# 🐍 discord.py ecosystem - COMPLETE PACKAGE SUMMARY
 
 **Created:** 2025-01-09  
 **Total Packages:** 15+  
