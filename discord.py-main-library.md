@@ -1,4 +1,4 @@
-# 📚 discord.py - PYTHON DISCORD LIBRARY DOCUMENTATION
+# 📚 discord.py - MAIN LIBRARY DOCUMENTATION
 
 **Package:** `discord.py`  
 **Version:** v2.3+  
