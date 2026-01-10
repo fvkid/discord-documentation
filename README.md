@@ -1,3 +1,1 @@
-# Discord Terms of Service & Policy Archive
-
-> here is the [/archive](https://discord.com/archive)
+# **[Discord Terms of Service & Policy Archive](https://discord.com/archive)**
